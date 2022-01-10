@@ -1,0 +1,10 @@
+song_1.txt - sadness - I'm Falling Apart
+song_2.txt - joy - Clap Along
+song_3.txt - joy - Just Want to be Happy
+song_4.txt - sadness - Sad Forever
+song_5.txt - disgust - Bitter Tears
+song_6.txt - anger - Waste of Time
+song_7.txt - fear - Every Night it's the Same
+song_8.txt - anger - Wars
+song_9.txt - disgust - You Just a Liar
+song_10.txt - joy - Hello
